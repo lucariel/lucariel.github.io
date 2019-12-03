@@ -1,4 +1,4 @@
-title: Lucas Ariel Enrich # your name (or website title) here
+title: Lucas A Enrich # your name (or website title) here
 logo: "/images/pp.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Econometría, Machine Learning, Data Science 
@@ -7,4 +7,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
